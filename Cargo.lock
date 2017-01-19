@@ -1,0 +1,4 @@
+[root]
+name = "mongodb-service-adapter"
+version = "0.1.0"
+
