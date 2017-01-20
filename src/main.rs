@@ -10,7 +10,7 @@ fn main() {
         process::exit(ERROR_EXIT_CODE);
     }
 
-    let command : &str = &args[1][..];
+    let command: &str = &args[1][..];
 
     match command {
         "generate-manifest" => process::exit(NOT_IMPLEMENTED_EXIT_CODE),
